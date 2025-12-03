@@ -1,0 +1,29 @@
+{
+    "name": "fitness-app",
+    "version": "1.0.0",
+    "description": "FitZone - Fitness Exercises App with ExerciseDB API",
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.20.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react": "^4.2.0",
+      "vite": "^5.0.0"
+    },
+    "keywords": [
+      "react",
+      "fitness",
+      "exercises",
+      "exercisedb",
+      "api"
+    ],
+    "author": "Student",
+    "license": "MIT"
+  }
