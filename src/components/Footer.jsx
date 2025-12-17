@@ -25,10 +25,10 @@ const Footer = () => {
         {/* Social Media */}
         <div className="footer-section">
           <h3>Follow Us</h3>
-          <p>📸 Instagram</p>
-          <p>🐦 Twitter</p>
-          <p>📘 Facebook</p>
-          <p>▶️ YouTube</p>
+          <p> Instagram</p>
+          <p> Twitter</p>
+          <p> Facebook</p>
+          <p> YouTube</p>
         </div>
 
         {/* Contact */}
