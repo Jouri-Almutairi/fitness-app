@@ -152,7 +152,7 @@ The **Profile** page shows user information with edit functionality and account 
 
 ## 🚀 Live Demo
 
-- **Live Application**: [Your Netlify Link]
+- **Live Application**: https://silver-paprenjak-f1b327.netlify.app/
 - **GitHub Repository**: [https://github.com/Jouri-Almutairi/fitness-app](https://github.com/Jouri-Almutairi/fitness-app)
 
 ---
@@ -198,4 +198,4 @@ VITE_RAPIDAPI_KEY=your_rapidapi_key
 
 This project is created for educational purposes as part of CPIT405 course.
 
-© 2024 FitZone. All rights reserved.
+© 2025 FitZone. All rights reserved.

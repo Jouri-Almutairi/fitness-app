@@ -22,28 +22,28 @@ const Footer = () => {
           <Link to="/workout-plan">Workout Plan</Link>
         </div>
 
-        {/* Categories */}
+        {/* Social Media */}
         <div className="footer-section">
-          <h3>Categories</h3>
-          <Link to="/exercises">Back Exercises</Link>
-          <Link to="/exercises">Chest Exercises</Link>
-          <Link to="/exercises">Leg Exercises</Link>
-          <Link to="/exercises">Arm Exercises</Link>
+          <h3>Follow Us</h3>
+          <p>📸 Instagram</p>
+          <p>🐦 Twitter</p>
+          <p>📘 Facebook</p>
+          <p>▶️ YouTube</p>
         </div>
 
         {/* Contact */}
         <div className="footer-section">
           <h3>Contact Us</h3>
           <p>📧 info@fitzone.com</p>
-          <p>📱 +1 (555) 123-4567</p>
-          <p>📍 123 Fitness Street, NY</p>
+          <p>📱 +966 50 123 4567</p>
+          <p>📍 Jeddah, Saudi Arabia</p>
         </div>
       </div>
 
       {/* Bottom Bar */}
       <div className="footer-bottom">
         <p>
-          © 2024 FitZone. All rights reserved. Built with ❤️ for fitness lovers.
+          © 2025 FitZone. All rights reserved. Built with ❤️ for fitness lovers.
         </p>
       </div>
     </footer>
