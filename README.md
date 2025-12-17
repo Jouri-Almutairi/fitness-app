@@ -146,7 +146,10 @@ The **Profile** page shows user information with edit functionality and account 
 
 | Name            | Role                 | ID        |
 | --------------- | -------------------- | --------- |
-| Jouri Almutairi | Full Stack Developer | [2112383] |
+| Jouri Almutairi | Full Stack Developer | 2112383 |
+| Ruba Ahmad Kaabi | Full Stack Developer | 2115164 |
+| Jawaher Adnan Alsharif | Full Stack Developer | 2206489 |
+| Refal Hamad Alsolami | Full Stack Developer | 2205572 |
 
 ---
 
@@ -190,7 +193,32 @@ VITE_RAPIDAPI_KEY=your_rapidapi_key
 
 ## 📸 Screenshots
 
-[Add your screenshots here]
+### 🏠 Homepage
+<img src="https://github.com/user-attachments/assets/5736871b-3352-4bcd-9759-834fc09f11fb" alt="Homepage" width="600" />
+
+### 💪 Exercise Library
+<img src="https://github.com/user-attachments/assets/f07f4f6f-b368-4200-abb9-ee8f8d947a97" alt="Exercise Library" width="600" />
+
+### 📋 Exercise Details
+<img src="https://github.com/user-attachments/assets/c505bd91-5e3b-464b-803a-6bb6ca96f01f" alt="Exercise Details" width="600" />
+
+### 📝 Register Page
+<img src="https://github.com/user-attachments/assets/e87aef1a-dfbf-4513-80e5-a8f8beecd82d" alt="Login Page" width="600" />
+
+### 🔐 Login Page
+<img src="https://github.com/user-attachments/assets/2c657a7d-b938-4d05-a224-897d0d326d7a" alt="Register Page" width="600" />
+
+### ⭐ Favorites
+<img src="https://github.com/user-attachments/assets/bd71a6f4-7447-4754-9b08-9225d0537d93" alt="Favorites" width="600" />
+
+### 🗓️ Workout Plan
+<img src="https://github.com/user-attachments/assets/d14f6c1c-25b5-4396-a888-5a19abed200f" alt="Workout Plan" width="600" />
+
+### 🗓️ Workout Plan
+<img src="https://github.com/user-attachments/assets/82c6191e-a668-4266-8ad6-472378711b59" alt="Profile" width="600" />
+
+### 👤 Profile
+<img src="https://github.com/user-attachments/assets/cd2aff7d-dd2f-49ae-9120-bba3d1974371" alt="Responsive" width="600" />
 
 ---
 
